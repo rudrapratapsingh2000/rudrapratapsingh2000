@@ -23,7 +23,7 @@ Here's a graphical representation of my technical skills:
 ### Databases
 
 - SQL: ![████████░░░░░░░](https://progress-bar.dev/70/)
-- 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapratapsingh2000)](https://github.com/rudrapratapsingh2000)
 [![Rudra Pratap GitHub stats](https://github-readme-stats.vercel.app/api?username=rudrapratapsingh2000)](https://github.com/rudrapratapsingh2000)
 
