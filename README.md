@@ -45,7 +45,7 @@ I’m a dedicated Java Developer currently working as a **Junior Consultant** at
 
 ## 📫 How to reach me
 - ✉️ **Email:** rudrachauhan1116@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/rudrapratapsinghjil](https://linkedin.com/in/rudrapratapsinghjil)
+- 💼 **LinkedIn:** [linkedin.com/in/rudrapratapsinghjil](https://www.linkedin.com/in/rudra-pratap/)
 - 💻 **HackerRank/LeetCode:** Active on both platforms for DSA practice
 
 ---
