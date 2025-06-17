@@ -25,7 +25,7 @@ I’m a dedicated Java Developer currently working as a **Junior Consultant** at
 ## 💼 Work Experience
 
 **👨‍💻 Junior Consultant @ JIL IT (Jaypee Group)**  
-`Feb 2023 - Present`  
+`Dec 2022 - Present`  
 - Built enterprise-level microservices with Spring Boot & Kafka
 - Implemented authentication/authorization with JWT and Keycloak
 - Developed internal tools using Angular and REST APIs
